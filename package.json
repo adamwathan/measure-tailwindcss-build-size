@@ -9,10 +9,16 @@
   "author": "Dave Calnan <d@ve.ie>",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bulma": "^0.7.4",
     "clean-css": "^4.2.1",
     "cli-table": "^0.3.1",
+    "foundation-sites": "^6.5.3",
+    "materialize-css": "^1.0.0",
     "node-gzip": "^1.1.2",
     "rimraf": "^2.6.3",
+    "semantic-ui": "^2.4.2",
+    "tachyons": "^4.11.1",
     "tailwindcss": "^1.0.0-beta.4"
   }
 }
